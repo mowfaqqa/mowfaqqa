@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a management system using next.js, node.js,  and express.<br>👯 I’m looking to collaborate on big challenging enterprise projects. <br>🤝 I’m looking for help with learning server-side architecture and cloud computing<br>🌱 I’m currently learning cloud engineering i.e. Amazon web services<br>💬 Ask me about JavaScript, TypeScript, React, and how to lead a team<br>⚡ Fun fact : I am a resilient engineer who loves trying out new technologies and also a cat lover 
+🔭 I’m a software engineer with a passion for building scalable and maintainable software solutions.<br>👯 I’m looking to collaborate on big challenging enterprise projects. <br>🤝 I’m looking for help with learning server-side architecture and cloud computing<br>🌱 I’m currently learning cloud engineering i.e. Amazon web services<br>💬 Ask me about JavaScript, TypeScript, React, and how to lead a team<br>⚡ Fun fact : I am a resilient engineer who loves trying out new technologies and also a cat lover 
 
 
 ## 🌐 Socials:
